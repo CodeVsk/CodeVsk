@@ -1,6 +1,16 @@
 <img src="https://github.com/CodeVsk/CodeVsk/blob/main/react-banner.png?raw=true" alt="banner VskCODE minimalist react">
 
-<h2 align="center">Hello visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
+<h2 align="center">Hello visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/><br><br>
+<a href="zimaplay1@gmail.com" align="center">
+  <img align="center" alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
+</a>&nbsp;
+<a href="https://t.me/codevsk" align="center">
+  <img align="center" alt="Contact me via Telegram." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/telegram.svg" />
+</a>&nbsp;
+<a href="https://twitter.com/vsmenork" align="center">
+  <img align="center" alt="CodeVsk on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
+</a>
+</h2>
 
 I'm a brasilian student, majoring in computer science and web developer
 
