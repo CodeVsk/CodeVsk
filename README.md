@@ -2,15 +2,17 @@
 
 <h2 align="center">Hello visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-<p>I'm a brasilian student, majoring in computer science and web developer</p>
+I'm a brasilian student, majoring in computer science and web developer
 
 #### More Informations
+
 - 👨🏻‍💻 Front-end & Design
 - 📚 Learning NodeJS & NextJS
 - 📂 Design portfolio <a href="https://www.behance.net/viniciusvieira34">Behance<a/>
 
 
 #### Languages and Frameworks
+
 <code><img height="20" src="https://github.com/CodeVsk/CodeVsk/blob/main/html.png"></code>
 <code><img height="20" src="https://github.com/CodeVsk/CodeVsk/blob/main/css.png"></code>
 <code><img height="20" src="https://github.com/CodeVsk/CodeVsk/blob/main/react.jpg"></code>
