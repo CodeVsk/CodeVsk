@@ -1,4 +1,4 @@
-<img src="https://github.com/CodeVsk/CodeVsk/blob/main/react-banner.png?raw=true" alt="banner VskCODE minimalist react">
+<img src="https://github.com/CodeVsk/CodeVsk/blob/main/vsk-banner.png?raw=true" alt="banner VskCODE minimalist react">
 
 <h2 align="center">Hello visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/><br><br>
 <a href="zimaplay1@gmail.com" align="center">
