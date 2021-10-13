@@ -16,7 +16,7 @@ I'm a brasilian student, majoring in computer science and web developer
 
 #### More Informations
 
-- 👨🏻‍💻 Front-end & Design
+- 👨🏻‍💻 Front-end & Back-end
 - 📚 Learning NodeJS & NextJS
 - 📂 Design portfolio <a href="https://www.behance.net/viniciusvieira34">Behance<a/>
 
