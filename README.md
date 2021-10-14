@@ -23,7 +23,7 @@ I'm a brasilian student, majoring in computer science and web developer
 
 #### Languages and Frameworks
 
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff6e96)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&logoColor=white&color=ff6e96)
 ![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3&logoColor=white&color=ff6e96)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ff6e96)
