@@ -23,14 +23,7 @@ I'm a brasilian student, majoring in computer science and web developer
 
 #### Languages and Frameworks
 
-<code><img height="20" src="https://github.com/CodeVsk/CodeVsk/blob/main/html.png"></code>
-<code><img height="20" src="https://github.com/CodeVsk/CodeVsk/blob/main/css.png"></code>
-<code><img height="20" src="https://github.com/CodeVsk/CodeVsk/blob/main/react.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
+<div align="center">
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
@@ -50,7 +43,7 @@ I'm a brasilian student, majoring in computer science and web developer
 ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=2bbc8a)
-      
+</div>      
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk&theme=dracula&show_icons=false&hide_border=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
