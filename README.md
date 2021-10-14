@@ -1,6 +1,6 @@
 <img src="https://github.com/CodeVsk/CodeVsk/blob/main/vsk-banner.png?raw=true" alt="banner VskCODE minimalist react">
 
-<h2 align="center">Hello visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/><br><br>
+<h2 align="center">Hello, Dev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/><br><br>
 <a href="zimaplay1@gmail.com" align="center">
   <img align="center" alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
@@ -15,6 +15,9 @@
 I'm a brasilian student, majoring in computer science and web developer
 
 #### More Informations
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 👨🏻‍💻 Front-end & Back-end
 - 📚 Learning NodeJS & NextJS
