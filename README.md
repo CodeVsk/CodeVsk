@@ -2,10 +2,10 @@
 
 # Hello, Dev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-![](https://img.shields.io/badge/Social-Gmail-informational?style=flat&logo=gmail&logoColor=white&link=vynycyusvieira@gmail.com&color=c6040d)
-![](https://img.shields.io/badge/Social-Telegram-informational?style=flat&logo=telegram&logoColor=white&link=https://t.me/codevsk&color=c6040d)
-![](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vsmenork&color=c6040d)
-![](https://img.shields.io/badge/Social-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusvieiravsk/&color=c6040d)
+![](https://img.shields.io/badge/Gmail-vynycyusvieira@gmail.com-informational?style=flat&logo=gmail&logoColor=white&link=vynycyusvieira@gmail.com&color=c6040d)
+![](https://img.shields.io/badge/Telegram-t.me/codevsk-informational?style=flat&logo=telegram&logoColor=white&link=https://t.me/codevsk&color=c6040d)
+![](https://img.shields.io/badge/Twitter-@vsmenork-informational?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vsmenork&color=c6040d)
+![](https://img.shields.io/badge/Linkedin-in/viniciusvieiravsk-informational?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusvieiravsk/&color=c6040d)
 
 
 I'm a brasilian student, majoring in computer science and web developer
