@@ -47,7 +47,10 @@ I'm a brasilian student, majoring in computer science and web developer
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cms-Ghost-informational?style=flat&logo=ghost&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cms-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
-    
+![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=2bbc8a)
+      
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk&theme=dracula&show_icons=false&hide_border=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
