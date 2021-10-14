@@ -16,7 +16,7 @@ I'm a brasilian student, majoring in computer science and web developer
 
 #### More Informations
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
