@@ -44,5 +44,5 @@ I'm a brasilian student, majoring in computer science and web developer
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=c6040d)    
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk&theme=dracula&show_icons=false&title_color=c6040d&hide_border=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula&title_color=c6040&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk&theme=dracula&show_icons=false&title_color=c6040d&hide_border=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula&title_color=c6040d&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
