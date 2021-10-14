@@ -16,10 +16,6 @@ I'm a brasilian student, majoring in computer science and web developer
 
 #### More Informations
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 - 👨🏻‍💻 Front-end & Back-end
 - 📚 Learning NodeJS & NextJS
 - 📂 Design portfolio <a href="https://www.behance.net/viniciusvieira34">Behance<a/>
@@ -34,3 +30,6 @@ I'm a brasilian student, majoring in computer science and web developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
