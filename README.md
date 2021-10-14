@@ -37,6 +37,10 @@ I'm a brasilian student, majoring in computer science and web developer
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk&theme=dracula&show_icons=false&hide_border=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
