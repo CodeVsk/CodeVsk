@@ -2,6 +2,8 @@
 
 # Hello, Dev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
+![](https://img.shields.io/badge/Email-Gmail-informational?style=flat&logo=gmail&logoColor=white?link=vynycyusvieira@gmail.com&color=c6040d)
+
 <a href="zimaplay1@gmail.com" align="center">
   <img align="center" alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
