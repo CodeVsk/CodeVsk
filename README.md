@@ -41,10 +41,5 @@ I'm a brasilian student, majoring in computer science and web developer
   
 #### Graphics and Statistics  
   
- <div>
-  <a href="https://github.com/CodeVsk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codevsk&theme=dracula&show_icons=false&title_color=c6040d&hide_border=true&hide=issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula&title_color=c6040d&hide_border=true"/>
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk&theme=dracula&show_icons=false&title_color=c6040d&hide_border=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula&title_color=c6040d&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
