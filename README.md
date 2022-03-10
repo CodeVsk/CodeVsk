@@ -26,6 +26,8 @@ I'm a brasilian student, majoring in computer science and web developer
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c6040d)
+![](https://img.shields.io/badge/Code-SharePoint-Microsoft?style=flat&logo=MicrosoftSharePoint&logoColor=white&color=c6040d)
+![](https://img.shields.io/badge/Code-Power%20Automate-Microsoft?style=flat&logo=PowerAutomate&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=c6040d)
