@@ -31,6 +31,7 @@ I'm a brasilian student, majoring in computer science and web developer
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=c6040d)
+![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vuedotjs&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=c6040d)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=c6040d)
