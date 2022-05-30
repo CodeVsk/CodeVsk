@@ -2,10 +2,10 @@
 
 # Hello, Dev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-![](https://img.shields.io/badge/Gmail-vynycyusvieira@gmail.com-informational?style=flat&logo=gmail&logoColor=white&link=vynycyusvieira@gmail.com&color=faa128)
-![](https://img.shields.io/badge/Telegram-t.me/codevsk-informational?style=flat&logo=telegram&logoColor=white&link=https://t.me/codevsk&color=faa128)
-![](https://img.shields.io/badge/Twitter-@vinevsk-informational?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vinevsk&color=faa128)
-![](https://img.shields.io/badge/Linkedin-in/viniciusvieiravsk-informational?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusvieiravsk/&color=faa128)
+![](https://img.shields.io/badge/Gmail-vynycyusvieira@gmail.com-informational?style=flat&logo=gmail&logoColor=white&link=vynycyusvieira@gmail.com&color=ff8400)
+![](https://img.shields.io/badge/Telegram-t.me/codevsk-informational?style=flat&logo=telegram&logoColor=white&link=https://t.me/codevsk&color=ff8400)
+![](https://img.shields.io/badge/Twitter-@vinevsk-informational?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vinevsk&color=ff8400)
+![](https://img.shields.io/badge/Linkedin-in/viniciusvieiravsk-informational?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusvieiravsk/&color=ff8400)
 
 
 I'm a brasilian student, majoring in computer science and web developer
