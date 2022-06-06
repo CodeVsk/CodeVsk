@@ -1,6 +1,6 @@
 <img src="https://github.com/CodeVsk/CodeVsk/blob/main/banner-vsk.png?raw=true" alt="banner VskCODE minimalist react">
 
-# Hello, Dev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+# Hello, Dev! <img src="https://raw.githubusercontent.com/CodeVsk/CodeVsk/main/zenitsu.gif" width="25px"/>
 
 ![](https://img.shields.io/badge/Gmail-vynycyusvieira@gmail.com-informational?style=flat&logo=gmail&logoColor=white&link=vynycyusvieira@gmail.com&color=ff8400)
 ![](https://img.shields.io/badge/Telegram-t.me/codevsk-informational?style=flat&logo=telegram&logoColor=white&link=https://t.me/codevsk&color=ff8400)
@@ -25,6 +25,7 @@ I'm a brasilian student, majoring in computer science and web developer
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ff8400)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=ff8400)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=ff8400) 
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=ff8400)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff8400)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff8400)
 ![](https://img.shields.io/badge/Code-SharePoint-Microsoft?style=flat&logo=MicrosoftSharePoint&logoColor=white&color=ff8400)
