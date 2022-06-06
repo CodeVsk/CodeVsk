@@ -1,6 +1,6 @@
 <img src="https://github.com/CodeVsk/CodeVsk/blob/main/banner-vsk.png?raw=true" alt="banner VskCODE minimalist react">
 
-# Hello, Dev! <img src="https://raw.githubusercontent.com/CodeVsk/CodeVsk/main/zenitsu.gif" width="25px"/>
+<img src="https://raw.githubusercontent.com/CodeVsk/CodeVsk/main/zenitsu.gif" style="width:150px;" /> # Hello, Dev!
 
 ![](https://img.shields.io/badge/Gmail-vynycyusvieira@gmail.com-informational?style=flat&logo=gmail&logoColor=white&link=vynycyusvieira@gmail.com&color=ff8400)
 ![](https://img.shields.io/badge/Telegram-t.me/codevsk-informational?style=flat&logo=telegram&logoColor=white&link=https://t.me/codevsk&color=ff8400)
