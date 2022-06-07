@@ -2,10 +2,10 @@
 
 # Hello, Dev!<img src="https://github.com/CodeVsk/CodeVsk/blob/main/zenitsu.gif?raw=true" width="150" height="150" alt="banner VskCODE minimalist react"/>
 
-![](https://img.shields.io/badge/Gmail-vynycyusvieira@gmail.com-informational?style=flat&logo=gmail&logoColor=white&link=vynycyusvieira@gmail.com&color=ff8400)
+<a href="mailto:vynycyusvieira@gmail.com">![](https://img.shields.io/badge/Gmail-vynycyusvieira@gmail.com-informational?style=flat&logo=gmail&logoColor=white&link=vynycyusvieira@gmail.com&color=ff8400)</a>
 ![](https://img.shields.io/badge/Telegram-t.me/codevsk-informational?style=flat&logo=telegram&logoColor=white&link=https://t.me/codevsk&color=ff8400)
-![](https://img.shields.io/badge/Twitter-@vinevsk-informational?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vinevsk&color=ff8400)
-![](https://img.shields.io/badge/Linkedin-in/viniciusvieiravsk-informational?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusvieiravsk/&color=ff8400)
+<a href="https://twitter.com/vinevsk">![](https://img.shields.io/badge/Twitter-@vinevsk-informational?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vinevsk&color=ff8400)</a>
+<a href="https://www.linkedin.com/in/viniciusvieiravsk/">![](https://img.shields.io/badge/Linkedin-in/viniciusvieiravsk-informational?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusvieiravsk/&color=ff8400)</a>
 
 
 I'm a brasilian student, majoring in computer science and web developer
