@@ -1,4 +1,4 @@
-<img src="https://github.com/CodeVsk/CodeVsk/blob/main/banner-vsk.png?raw=true" alt="CodeVSK" style="filter: hue-rotate(90deg);">
+<img src="https://github.com/CodeVsk/CodeVsk/blob/main/green-banner.jpeg?raw=true" alt="CodeVSK">
 
 # Hello, Dev!<img src="https://github.com/CodeVsk/CodeVsk/blob/main/zoro-animation.gif?raw=true" width="250" height="200" alt="CodeVSK"/>
 
