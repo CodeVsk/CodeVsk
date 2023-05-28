@@ -2,11 +2,11 @@
 
 # Hello, Dev!<img src="https://github.com/CodeVsk/CodeVsk/blob/main/zoro-animation.gif?raw=true" width="250" height="200" alt="CodeVSK"/>
 
-<a href="mailto:vynycyusvieira@gmail.com">![](https://img.shields.io/badge/Gmail-vynycyusvieira@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white&link=mailto:vynycyusvieira@gmail.com&color=006E00)</a>
-![](https://img.shields.io/badge/Telegram-t.me/codevsk-informational?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/codevsk&color=006E00)
-<a href="https://twitter.com/vinevsk">![](https://img.shields.io/badge/Twitter-@vinevsk-informational?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/vinevsk&color=006E00)</a>
-<a href="https://www.linkedin.com/in/viniciusvieiravsk/">![](https://img.shields.io/badge/Linkedin-in/viniciusvieiravsk-informational?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusvieiravsk/&color=006E00)</a>
-
+<div align="center">
+  <a href="mailto:vynycyusvieira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/viniciusvieiravsk/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://twitter.com/vinevsk" target="_blank"><img src="https://img.shields.io/badge/Twitter-61DAFB?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
 
 I'm a brasilian student, majoring in computer science and software developer
 
@@ -17,34 +17,66 @@ I'm a brasilian student, majoring in computer science and software developer
 - 📂 Design portfolio <a href="https://www.behance.net/viniciusvieira34">Behance<a/>
 
 
-#### Languages and Frameworks
+#### Languages, Frameworks & Technologies
 
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=006E00) 
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-SharePoint-Microsoft?style=flat&logo=MicrosoftSharePoint&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-Power%20Automate-Microsoft?style=flat&logo=PowerAutomate&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-Power%20Apps-informational?style=flat&logo=powerapps&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vuedotjs&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Cms-Ghost-informational?style=flat&logo=ghost&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Cms-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=006E00)
-![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=006E00)    
   
+<div align="center">
+  
+![](https://img.shields.io/badge/-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/-Sourcetree-informational?style=flat&logo=sourcetree&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=512BD4) 
+
+![](https://img.shields.io/badge/-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
+![](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
+![](https://img.shields.io/badge/-Html-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
+![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)
+![](https://img.shields.io/badge/-VueJS-informational?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D)
+![](https://img.shields.io/badge/-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/-AngularJS-informational?style=flat&logo=angularjs&logoColor=white&color=E23237)
+![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6) 
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=0078D4)
+  
+![](https://img.shields.io/badge/-SharePoint-Microsoft?style=flat&logo=MicrosoftSharePoint&logoColor=white&color=0078D4)
+![](https://img.shields.io/badge/-Power%20Automate-Microsoft?style=flat&logo=PowerAutomate&logoColor=white&color=0066FF)
+![](https://img.shields.io/badge/-Power%20Apps-informational?style=flat&logo=powerapps&logoColor=white&color=742774)
+
+![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/-Microsoft%20Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=0078D4)
+![](https://img.shields.io/badge/-NuGet-informational?style=flat&logo=NuGet&logoColor=white&color=004880)
+![](https://img.shields.io/badge/-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
+![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
+![](https://img.shields.io/badge/-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=85EA2D)
+  
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=FC6D26)
+![](https://img.shields.io/badge/-TFS-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=0078D4)
+
+![](https://img.shields.io/badge/-SQL%20Server-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/-PL%2FSQL-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+  
+![](https://img.shields.io/badge/-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/-Figma-informational?style=flat&logo=Figma&logoColor=white&color=0ac97f)
+![](https://img.shields.io/badge/-Canva-informational?style=flat&logo=Canva&logoColor=white&color=00c3cc)
+![](https://img.shields.io/badge/-Miro-informational?style=flat&logo=Miro&logoColor=white&color=f7c92e)
+</div>
+
 #### Graphics and Statistics  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevsk&theme=dracula&show_icons=false&title_color=006E00&hide_border=true&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&theme=dracula&title_color=006E00&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/codevsk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codevsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevsk&layout=compact&langs_count=7&theme=dracula"/>
+</div>
