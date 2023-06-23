@@ -50,6 +50,7 @@ I'm a brasilian student, majoring in computer science and software developer
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/-Microsoft%20Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=0078D4)
+![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=f8991b)
 ![](https://img.shields.io/badge/-NuGet-informational?style=flat&logo=NuGet&logoColor=white&color=004880)
 ![](https://img.shields.io/badge/-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
