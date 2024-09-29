@@ -10,7 +10,7 @@
 
 #### More Informations
 
-- 👨🏻‍💻 Software Developer Pl.
+- 👨🏻‍💻 Software Developer Jr.
 - 📚 Learning Software Architecture & DevOps
 - 📂 Design portfolio <a href="https://www.behance.net/viniciusvieira34">Behance<a/>
 
