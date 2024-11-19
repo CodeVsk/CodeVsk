@@ -5,12 +5,11 @@
 <div align="center">
   <a href="mailto:vynycyusvieira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/viniciusvsk/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://twitter.com/vinevsk" target="_blank"><img src="https://img.shields.io/badge/Twitter-61DAFB?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 #### More Informations
 
-- 👨🏻‍💻 Software Developer Jr.
+- 👨🏻‍💻 Software Engineer.
 - 📚 Learning Software Architecture & DevOps
 - 📂 Design portfolio <a href="https://www.behance.net/viniciusvieira34">Behance<a/>
 
@@ -32,7 +31,8 @@
 ![](https://img.shields.io/badge/-Next-informational?style=flat&logo=nextdotjs&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6) 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=0078D4)
-  
+![](https://img.shields.io/badge/-Golang-informational?style=flat&logo=go&logoColor=white&color=61DAFB)
+
 ![](https://img.shields.io/badge/-SharePoint-Microsoft?style=flat&logo=MicrosoftSharePoint&logoColor=white&color=0078D4)
 ![](https://img.shields.io/badge/-Power%20Automate-Microsoft?style=flat&logo=PowerAutomate&logoColor=white&color=0066FF)
 ![](https://img.shields.io/badge/-Power%20Apps-informational?style=flat&logo=powerapps&logoColor=white&color=742774)
@@ -43,6 +43,7 @@
 ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=f8991b)
 ![](https://img.shields.io/badge/-Microsft%20IIS%20Server-informational?style=flat&logo=microsoft&logoColor=white&color=3d3d3d)
 
+![](https://img.shields.io/badge/-Bitbucket%20Pipelines-informational?style=flat&logo=bitbucket&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/-Argo%20CD-informational?style=flat&logo=argo&logoColor=white&color=ef7b4d)
 ![](https://img.shields.io/badge/-TeamCity-informational?style=flat&logo=teamcity&logoColor=white&color=19f2af)
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
